@@ -3,7 +3,7 @@ import itertools
 colour=["red", "green","blue"]
 cy=itertools. cyclecolors)
 for in range(6):
-print(next(cy)
+  print(next(cy)
 
 islice
 from itertools import islice 
