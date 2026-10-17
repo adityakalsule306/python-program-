@@ -1,4 +1,4 @@
-pr={'python':25,'cpp':26,'maths':24,'html':28}
+pr={'python':20,'cpp':21,'maths':24,'html':25}
 l=iter(pr.items())
 print(next(l))
 print(next(l))
