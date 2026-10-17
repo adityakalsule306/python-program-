@@ -13,13 +13,13 @@ s=r(10,20,30,40,50,60)
 r=list(islice(s,1,4))
 print(r)
 
-1) pairwise 
+3) pairwise 
 
 from itertools import pairwise 
 n=[1,2,3,4]
 print(list(pairwise(n)))
 
-2) tee
+4) tee
 
 import itertools 
 d=[1,,2,3,4]
@@ -27,7 +27,7 @@ a,b=itertools.tee(d,2)
 print(list(a))
 print(list(b))
 
-3) chain 
+5) chain 
 
 from itertools import chain
 list1=[1,2,3]
