@@ -1,0 +1,6 @@
+import itertools 
+d=[('english',24),('cpp',21),('yoga',24),('maths',24),('evs',25
+d.sort(key=lambda x:x[0])
+g=itertools.groupby(d,key=lambda x:x[0])
+for k,v in s:
+    print(f"k={k} v={list(v)"}
