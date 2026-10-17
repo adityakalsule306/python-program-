@@ -1,0 +1,12 @@
+import itertools 
+r=itertools.count(201,1)
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
+print(next(r))
