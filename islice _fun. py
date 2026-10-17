@@ -1,4 +1,4 @@
 import itertools 
-s="shivtej@gmail.com"
+s="aditya@gmail.com"
 i=itertools.islice(s,0,15)
 print(list(i))
