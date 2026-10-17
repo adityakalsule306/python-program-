@@ -1,4 +1,4 @@
-x=4
+x=5
 def modify_global():
 global x
 x=10
