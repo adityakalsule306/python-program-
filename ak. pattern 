@@ -1,1 +1,2 @@
-print("hpk")
+a=lambda x,y:x+y
+print(a(b,2)
