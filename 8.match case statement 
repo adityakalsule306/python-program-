@@ -1,0 +1,8 @@
+day="monday"
+match day:
+     case"monday":
+       print("start of week")
+     case"friday":
+       print("end of the week")
+     case:
+       print("midweek")
